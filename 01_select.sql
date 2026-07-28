@@ -1,0 +1,6 @@
+SELECT 'OLÁ MUNDO!';
+
+SELECT *
+ FROM clientes LIMIT 2;
+
+
